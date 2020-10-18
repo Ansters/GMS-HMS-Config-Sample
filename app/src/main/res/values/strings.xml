@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GMS HMS config sample</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_fetch_last_location">FETCH LAST KNOWN LOCATION</string>
+</resources>

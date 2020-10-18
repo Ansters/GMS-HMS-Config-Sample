@@ -1,0 +1,3 @@
+include ':mobile-service'
+include ':app'
+rootProject.name = "GMS-HMS-Config-Sample"
